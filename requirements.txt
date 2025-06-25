@@ -1,0 +1,11 @@
+Flask
+python-dotenv
+firecrawl
+# Añade aquí otras dependencias directas que tu proyecto necesite
+google-genai
+sqlalchemy
+pytest
+coverage
+pytest-cov
+praisonaiagents
+gunicorn
